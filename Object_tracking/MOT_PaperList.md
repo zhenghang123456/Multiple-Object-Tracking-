@@ -1,4 +1,8 @@
 # List of paper about MOT
+### 2022
+
+#### CVPR
+Global Tracking Transformers[\(paper\)](https://arxiv.org/abs/2203.13250) [\(code\)](https://github.com/xingyizhou/GTR)
 
 ### 2021
 
