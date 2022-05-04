@@ -1,8 +1,28 @@
+持续更新
 # List of paper about MOT
 ### 2022
 
+###
+TransTrack: Multiple Object Tracking with Transformer[\(paper\)](https://arxiv.org/abs/2012.15460) [\(code\)](https://github.com/PeizeSun/TransTrack)
+
+###IEEE
+TransCenter: Transformers with Dense Queries for Multiple-Object Tracking[\(paper\)](http://arxiv.org/abs/2103.15145) [\(code\)](https://github.com/yihongxu/transcenter)
+
+
 #### CVPR
 Global Tracking Transformers[\(paper\)](https://arxiv.org/abs/2203.13250) [\(code\)](https://github.com/xingyizhou/GTR)
+
+TrackFormer: Multi-Object Tracking with Transformers[\(paper\)](http://arxiv.org/abs/2101.02702) [\(code\)](https://github.com/timmeinhardt/trackformer)
+
+MeMOT: Multi-Object Tracking with Memory[\(paper\)](https://arxiv.org/abs/2203.16761)
+
+DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion[\(paper\)](https://arxiv.org/abs/2111.14690) [\(code\)](https://github.com/DanceTrack/DanceTrack)
+
+SoccerNet-Tracking: Multiple Object Tracking Dataset and Benchmark in Soccer Videos[\(paper\)](https://arxiv.org/pdf/2204.06918.pdf)
+
+Learning of Global Objective for Network Flow in Multi-Object Tracking[\(paper\)](https://arxiv.org/pdf/2203.16210.pdf)
+
+
 
 ### 2021
 
