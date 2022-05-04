@@ -1,5 +1,4 @@
-持续更新
-# List of paper about MOT
+# List of paper about MOT(持续更新）
 
 ### 2022
 
