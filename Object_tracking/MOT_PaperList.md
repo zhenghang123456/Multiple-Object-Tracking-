@@ -3,7 +3,6 @@
 
 ### 2022
 
-
 TransTrack: Multiple Object Tracking with Transformer[\(paper\)](https://arxiv.org/abs/2012.15460) [\(code\)](https://github.com/PeizeSun/TransTrack)
 
 ### IEEE
