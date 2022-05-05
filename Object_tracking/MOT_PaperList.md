@@ -33,6 +33,8 @@ MOTR: End-to-End Multiple-Object Tracking with Transformer[\(paper\)](https://ar
 
 Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers[\(paper\)](https://arxiv.org/abs/2103.14829) [\(code\)]) 
 
+TransMOT: Spatial-Temporal Graph Transformer for MOT[\(paper\)](https://arxiv.org/abs/2104.00194)
+
 #### CVPR
 
 Multiple Object Tracking with Correlation Learning [\(paper\)](https://arxiv.org/abs/2104.03541)
