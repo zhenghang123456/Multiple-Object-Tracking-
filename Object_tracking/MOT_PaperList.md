@@ -2,7 +2,7 @@
 
 ### 2022
 
-###arXiv
+### arXiv
 
 TransTrack: Multiple Object Tracking with Transformer[\(paper\)](https://arxiv.org/abs/2012.15460) [\(code\)](https://github.com/PeizeSun/TransTrack)
 
@@ -27,7 +27,7 @@ Learning of Global Objective for Network Flow in Multi-Object Tracking[\(paper\)
 
 ### 2021
 
-###arXiv
+### arXiv
 
 MOTR: End-to-End Multiple-Object Tracking with Transformer[\(paper\)](https://arxiv.org/abs/2105.03247) [\(code\)](https://github.com/megvii-model/MOTR)) 
 
