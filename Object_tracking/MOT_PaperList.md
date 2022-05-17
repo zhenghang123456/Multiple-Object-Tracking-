@@ -23,6 +23,7 @@ SoccerNet-Tracking: Multiple Object Tracking Dataset and Benchmark in Soccer Vid
 
 Learning of Global Objective for Network Flow in Multi-Object Tracking[\(paper\)](https://arxiv.org/pdf/2203.16210.pdf)
 
+TR-MOT: Multi-Object Tracking by Reference[\(paper\)](https://arxiv.org/abs/2203.16621)
 
 
 ### 2021
